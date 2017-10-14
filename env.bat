@@ -1,0 +1,1 @@
+D:\ai\tf\Scripts\activate.bat
